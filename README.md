@@ -1,4 +1,4 @@
-# AsynchronousProgramming
+# Asynchronous Programming
 
 Asynchronous Programming ou Programação assíncrona é um paradigma de programação que se destaca como uma metodologia fundamental para o desenvolvimento de software moderno, proporcionando maior responsividade, escalabilidade e eficiência em aplicações complexas. Ao contrário da programação síncrona tradicional, onde as tarefas são executadas sequencialmente, a programação assíncrona permite que diversas operações sejam processadas concomitantemente, sem bloquear a thread principal.
 
